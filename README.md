@@ -25,7 +25,7 @@ If you have any feedback, please reach out to us at shubhamsapkal7052@gmail.com
 ## Screenshots
 
 ![Home Screenshot](https://github.com/shubham-sapkal/BMI-calculator/blob/master/HomeScreenShot.jpeg)
-![Result Screenshot](https://github.com/shubham-sapkal/BMI-calculator/blob/master/HomeScreenShot.jpeg)
+![Result Screenshot](https://github.com/shubham-sapkal/BMI-calculator/blob/master/ResultScreenShot.jpeg)
 
 ## Support
 
