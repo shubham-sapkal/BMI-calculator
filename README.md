@@ -1,7 +1,7 @@
 
 # BMI Calculator
 
-It is android base application BMI(Body Mass Index) Calculated
+It is android base application BMI(Body Mass Index) Calculater.<br/>
 The application asks for the users age, gender, height and weight, and calculate BMI base of it 
 ## Authors
 
